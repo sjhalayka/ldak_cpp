@@ -1,0 +1,8 @@
+Linux Red Hat 8.0 (compiled on boba), Version 1.01 (031219)
+Compiler:  gcc version 3.2 20020903 (Red Hat Linux 8.0 3.2-7)
+Date: December 19, 2003
+
+qsopt:  gcc -O3 -static
+qreader:  gcc -O3 -static
+qsopt.a: gcc -O3
+qsopt.h:
